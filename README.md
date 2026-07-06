@@ -66,10 +66,10 @@
 
 ### 💼 Experience
 
-**Full Stack Developer** @ Cuddles Learning — *Nov 2025 – Mar 2026*
+**Full Stack Developer** @ Cuddles Learning: *Nov 2025 – Mar 2026*
 Built and refined responsive, user-facing features for an educational platform serving 150+ active users (kids ages 5–12 learning STEAM concepts). Optimized performance through code splitting and lazy loading.
 
-**Software Engineer Intern** @ SignVrse — *Apr 2025 – Aug 2025*
+**Software Engineer Intern** @ SignVrse: *Apr 2025 – Aug 2025*
 Delivered inclusive interfaces improving usability for users with visual and motor challenges, and built interactive sign language experiences with real-time gesture visualization using Three.js and MediaPipe.
 
 ---
