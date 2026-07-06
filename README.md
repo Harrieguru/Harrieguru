@@ -89,5 +89,5 @@ Delivered inclusive interfaces improving usability for users with visual and mot
 ---
 
 <p align="center">
-  <em>💡 Passionate about building accessible, high-impact software — let's connect!</em>
+  <em>💡 Passionate about building. Let's connect!</em>
 </p>
