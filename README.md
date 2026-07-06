@@ -82,7 +82,7 @@ Delivered inclusive interfaces improving usability for users with visual and mot
 | 🎮 [GameZone](https://github.com/Harrieguru/GameZone) | Game browsing/discovery web app | JavaScript |
 | ✉️ [Cover Letter Generator Platform](https://github.com/Harrieguru/Cover-Letter-Generator-Platform) | Full-stack AI-powered platform generating personalized cover letters from resumes + job descriptions | Python, React, FastAPI |
 | 🏠 [Link2Lease Backend](https://github.com/Harrieguru/link2lease-backend) | RESTful API for a housing platform connecting tenants and landlords directly | Java, Spring Boot, PostgreSQL |
-| 📦 [Countr](https://github.com/Harrieguru/Countr) | Inventory management tool that turns product photos into inventory entries automatically — upload a photo and the system creates the entry, no manual data entry required | Python, React |
+| 📦 [Countr](https://github.com/Harrieguru/Countr) | Inventory management tool that turns product photos into inventory entries automatically, upload a photo and the system creates the entry, no manual data entry required | Python, React |
 
 ---
 
