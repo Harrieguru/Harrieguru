@@ -17,7 +17,7 @@
 
 - 🎓 Currently studying **Information Technology (BA)** at **York University**
 - 🎓 Advanced Diploma in **Software Engineering** from **Centennial College**
-- 💻 Software Engineer with experience delivering full stack applications for **education and accessibility** driven products, supporting **150+ active users**
+- 💻 Software Engineer with experience delivering full stack applications
 - 🌱 Currently building at **Cuddles Learning**, working with React, TypeScript, and Node.js
 - 👀 Previously interned at **SignVrse**, building inclusive, gesture-based interfaces for accessibility
 - ⚡ Fun fact: I've built everything from sign-language visualizers to AI-powered cover letter generators
