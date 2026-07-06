@@ -18,7 +18,7 @@
 - 🎓 Currently studying **Information Technology (BA)** at **York University**
 - 🎓 Advanced Diploma in **Software Engineering** from **Centennial College**
 - 💻 Software Engineer with experience delivering full stack applications for **education and accessibility** driven products, supporting **150+ active users**
-- 🌱 Previously interned at **Cuddles Learning**, working with React, TypeScript, and Node.js
+- 🌱 Currently building at **Cuddles Learning**, working with React, TypeScript, and Node.js
 - 👀 Previously interned at **SignVrse**, building inclusive, gesture-based interfaces for accessibility
 - ⚡ Fun fact: I've built everything from sign-language visualizers to AI-powered cover letter generators
 
@@ -85,19 +85,6 @@ Delivered inclusive interfaces improving usability for users with visual and mot
 | ✉️ [Cover Letter Generator Platform](https://github.com/Harrieguru/Cover-Letter-Generator-Platform) | Full-stack AI-powered platform generating personalized cover letters from resumes + job descriptions | Python, React, FastAPI |
 | 🏠 [Link2Lease Backend](https://github.com/Harrieguru/link2lease-backend) | RESTful API for a housing platform connecting tenants and landlords directly | Java, Spring Boot, PostgreSQL |
 | 📦 [Countr](https://github.com/Harrieguru/Countr) | Inventory management tool that turns product photos into inventory entries automatically — upload a photo and the system creates the entry, no manual data entry required | Python, React |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrieguru&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harrieguru&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrieguru&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 ---
 
